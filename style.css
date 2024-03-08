@@ -1,0 +1,44 @@
+
+
+.title {
+    color: #040000;
+    background-color: #179029;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    margin: 10px 200px 30px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.button {
+    
+   text-align: center;
+   
+   
+ 
+}
+
+.links-list a {
+   background-color: #901313;
+   color: blue;
+   text-decoration: none;
+   padding: 2px 4px;
+   display: inline-block;
+}
+
+.partitle,
+.pratitle,
+.tomtitle {
+    color: #ecef0c;
+    background-color: #901313;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+
+
+
